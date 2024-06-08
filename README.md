@@ -14,3 +14,6 @@ La información y datos proporcionados en el mismo nos da acceso a datos relevan
 
 ### Licencia de los datos recolectados
 https://creativecommons.org/publicdomain/zero/1.0/
+
+### Link de la base de datos
+https://www.kaggle.com/datasets/alexgude/california-traffic-collision-data-from-switrs
