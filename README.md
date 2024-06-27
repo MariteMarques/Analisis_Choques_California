@@ -10,7 +10,7 @@ California enfrenta altos índices de accidentes de tráfico, donde la congesti�
 La información y datos proporcionados en el mismo nos da acceso a datos relevantes sobre los factores que contribuyen a los altos índices de accidentes de tráfico en California, además ayuda a fomentar la colaboracion entre las partes interesadas como autoridades locales, organizaciones de seguridad vial, investigadores y la comunidad en general.
 
 ### Idioma, Herramientas y Librerías/Paquetes 
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) ![Power bi](https://img.shields.io/badge/Powerbi-FF6C37.svg?style=for-the-badge&logo=PowerBi&logoColor=white)
 
 ### Licencia de los datos recolectados
 https://creativecommons.org/publicdomain/zero/1.0/
