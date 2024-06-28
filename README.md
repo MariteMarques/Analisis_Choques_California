@@ -3,7 +3,7 @@
  
 ## Análisis de los factores de riesgos, tendencias y consecuencias de los choques vehiculares en California 
 
-California enfrenta altos índices de accidentes de tráfico, donde la congestión vehicular, el exceso de velocidad y el consumo de alcohol son factores determinantes. La falta de infraestructura adecuada, el uso de dispositivos electrónicos al volante y la falta de conciencia sobre los peligros de conducir bajo el efecto de sustancias psicoactivas también contribuyen a la peligrosidad de las carreteras en este estado. Es crucial abordar estos factores para reducir la mortalidad y lesiones causadas por estos accidentes viales en California.
+California presenta altos índices de accidentes de tráfico, donde la congestión vehicular, el exceso de velocidad y el consumo de alcohol son factores determinantes. La falta de infraestructura adecuada, el uso de dispositivos electrónicos al volante y la falta de conciencia sobre los peligros de conducir bajo el efecto de sustancias psicoactivas también contribuyen al peligro de las carreteras en este estado. Es crucial abordar estos factores para reducir la mortalidad y lesiones causadas por estos accidentes viales en el estado de California.
 
 ### Utilidad
 
